@@ -1,4 +1,3 @@
-
 public class Pair
 {
 	private int first;
